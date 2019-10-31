@@ -16,8 +16,6 @@
 - **Sarah**:
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7O9OXN2d-2b5-lGcFIJA5MKaeGTnGu5Ab_rht-nV4er-i57NM" title="Batman" alt="FVCproductions"></a>
-
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
