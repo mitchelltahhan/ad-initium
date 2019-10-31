@@ -17,15 +17,6 @@
 
 - ***Sarah:***
 
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-
-(http://i.imgur.com/dt8AUb6.png)]()
-
 > Tips
 
 - HAVE WHITE SPACE
