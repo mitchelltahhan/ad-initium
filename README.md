@@ -6,11 +6,13 @@
 > Affects their view of the character, the setting, and situations.
 
 ### Setting
+---
 - Game starts in Jack's house. It’s dirty, messy, dark and it’s raining.
 - The city downtown, inspired by 60s New York City, or Gotham, is a mess filled with a feeling of sadness and depression.
 - A dirty old subway.
 
 ### Characters
+---
 - ***Jack:*** 
 
 - ***Sarah:***
@@ -21,25 +23,16 @@
 - build status
 - issues (waffle.io maybe)
 - devDependencies
-- npm package
-- coverage
 
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
+(http://i.imgur.com/dt8AUb6.png)]()
 
 > Tips
 
 - HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
 
 > GIF Tools
 
 - Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
 **Recordit**
 
