@@ -5,19 +5,16 @@
 
 > Affects their view of the character, the setting, and situations.
 
-## Settings
+### Setting
 - Game starts in Jack's house. It’s dirty, messy, dark and it’s raining.
 - The city downtown, inspired by 60s New York City, or Gotham, is a mess filled with a feeling of sadness and depression.
 - A dirty old subway.
 
 ### Characters
-- **Jack**: 
+- ***Jack:*** 
 
-- **Sarah**:
+- ***Sarah:***
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-> include terms/tags that can be searched
 
 **Badges will go here**
 
@@ -28,8 +25,6 @@
 - coverage
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-***INSERT ANOTHER GRAPHIC HERE***
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
