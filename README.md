@@ -1,7 +1,7 @@
 # Project: Ad-Initium
-Latin for ‘Back to the beginning’
+> Latin for ‘Back to the beginning’
 
-Make choices throughout the game to alter the experience of the player and possibly the ending. Affects their view of the character, the setting, and situations.
+> Make choices throughout the game to alter the experience of the player and possibly the ending. Affects their view of the character, the setting, and situations.
 
 # Setting(s)
 - Game starts in Jack's house. It’s dirty, messy, dark and it’s raining. 
@@ -19,12 +19,6 @@ Make choices throughout the game to alter the experience of the player and possi
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# Repository Title Goes Here
-
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
 
 > include terms/tags that can be searched
 
