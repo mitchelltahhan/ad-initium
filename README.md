@@ -1,6 +1,8 @@
 # Project: Ad-Initium
 > Latin for ‘Back to the beginning’
+
 > Make choices throughout the game to alter the experience of the player and possibly the ending.
+
 > Affects their view of the character, the setting, and situations.
 
 # Settings
