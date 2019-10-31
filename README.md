@@ -6,14 +6,16 @@
 > Affects their view of the character, the setting, and situations.
 
 # Settings
-- Game starts in Jack's house. It’s dirty, messy, dark and it’s raining. 
+- Game starts in Jack's house. It’s dirty, messy, dark and it’s raining.
+
 - The city downtown, inspired by 60s New York City, or Gotham, is a mess filled with a feeling of sadness and depression.
+
 - A dirty old subway.
 
 # Characters
-- Jack:
+- **Jack**:
 
-- Sarah:
+- **Sarah**:
 
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
