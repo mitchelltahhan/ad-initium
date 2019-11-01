@@ -17,12 +17,6 @@
 
 - ***Sarah:***
 
-> Tips
-
-- HAVE WHITE SPACE
-
-> GIF Tools
-
 ## Table of Contents (Optional)
 
 > If your `README` has a lot of info, section headers might be nice.
