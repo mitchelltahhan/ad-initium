@@ -17,6 +17,16 @@
 
 - ***Sarah:***
 
+### Screenshots
+---
+
+### Characters
+---
+- ***Jack:*** 
+
+- ***Sarah:***
+
+
 ## FAQ
 
 - **How do I do *specifically* so and so?**
