@@ -17,8 +17,6 @@
 
 - ***Sarah:***
 
----
-
 ## FAQ
 
 - **How do I do *specifically* so and so?**
