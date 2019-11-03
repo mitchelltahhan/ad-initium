@@ -17,15 +17,9 @@
 
 - ***Sarah:***
 
-### Screenshots
+## Screenshots
 ---
 ![The Escapist](https://d3tltd.com/wp-content/uploads/2019/08/Escapists-03.jpg)
-
-### Characters
----
-- ***Jack:*** 
-
-- ***Sarah:***
 
 
 ## FAQ
