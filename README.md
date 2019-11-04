@@ -8,8 +8,11 @@
 ### Setting
 ---
 - Game starts in Jack's house. It’s dirty, messy, dark and it’s raining.
-- The city downtown, inspired by 60s New York City, or Gotham, is a mess filled with a feeling of sadness and depression.
 - A dirty old subway.
+- The city downtown, inspired by 60s New York City, or Gotham, is a mess filled with a feeling of sadness and depression.
+- A gloomier, darker city downtown.
+- A gloomier, darker dirty old subway.
+- A depressing, gloomier, dirty, messier house.
 
 ### Characters
 ---
