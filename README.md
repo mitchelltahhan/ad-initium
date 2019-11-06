@@ -41,7 +41,7 @@ Settings & locations may vary depending on new ideas of character choices a play
     - Honestly, any date I say would be a lie. But at this pace, I could say before June 2020. But anything is possible.
     
 - **Why are you choosing to make this kind of game?**
-    - I've always been a story teller in my own way. I like story based games. Games that have such a strong story, can grip you like if you were watching a movie, or reading a good book. I've also always liked choices. To be able to make my own path anywhere I go, and in everything I do. Hence the choice making in the game, as well as the story along with it.
+    - I've always been a story teller in my own way. I like story based games. Games that have such a strong story, they can grip you like if you were watching a movie, or reading a good book. I've also always liked choices. To be able to make my own path anywhere I go, and in everything I do. Hence the choice making mechanic available in the game, as well as the story alongside it.
  
 ## Support
 
