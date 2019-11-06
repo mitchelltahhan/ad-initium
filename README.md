@@ -34,7 +34,7 @@
 
 ## Progress
 
-![Roadmap](https://ibb.co/qNgMfQv)
+![Roadmap](https://i.ibb.co/y6kn1jr/Roadmap-Progress.png)
 
 ## FAQ
 
