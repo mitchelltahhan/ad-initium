@@ -19,15 +19,11 @@
 
 Settings & locations may vary depending on new ideas of character choices a player could make.
 
-### Characters
+### Main Characters
 ---
 - ***Jack (Player):*** A man in his late 40s who lives along with his daughter *Sarah* in their ragged old apartment near downtown New York City. He is currently suffering of a rare form of lung cancer but is unaware of his condition. He's an avid smoker and drinker. Years ago, his now ex-wife abandoned him for reasons he never understood. They were very happy together and had his daughter, which she left with him. It's his birthday today, and he doesn't plan to celebrate it. He's struggling to pay the bills regardless of his 3 part time jobs. Jack's life doesn't look very promising.
 
 - ***Sarah:*** Jack's daughter, 12 years old, happy-go-lucky girl, who has a promising future due to her high intelligence and interest in the world of medicine, yet her living conditions impede her from getting a full education. She's only had her father throughout life as she's not one with many friends and is in fact an introvert.
-
-- ***Dick:*** He's Jack's boss at his main job. He kind of lives up to his name. Screams all day, treats his employees with disrespect, and expect them to not complain. Usually seen smoking.
-
-- ***
 
 ---
 
