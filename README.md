@@ -17,7 +17,7 @@
 - A depressing, gloomier, dirty, messier house.
 - A clean and fancy house.
 
-Settings & locations may vary depending on new ideas of character choices a player could make.
+*Settings & locations may vary depending on new ideas of character choices a player could make.*
 
 ### Main Characters
 ---
