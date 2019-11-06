@@ -17,7 +17,7 @@
 - A depressing, gloomier, dirty, messier house.
 - A clean and fancy house.
 
-> Settings & locations may vary depending on new ideas of character choices a player could make.
+Settings & locations may vary depending on new ideas of character choices a player could make.
 
 ### Characters
 ---
@@ -25,7 +25,9 @@
 
 - ***Sarah:*** Jack's daughter, 12 years old, happy-go-lucky girl, who has a promising future due to her high intelligence and interest in the world of medicine, yet her living conditions impede her from getting a full education. She's only had her father throughout life as she's not one with many friends and is in fact an introvert.
 
-- ***Dick:*** He's Jack's boss at his main job. He kind of lives up to his name. Screams all day, treats his employees with disrespect, and expect them to not complain. Usually smoking.
+- ***Dick:*** He's Jack's boss at his main job. He kind of lives up to his name. Screams all day, treats his employees with disrespect, and expect them to not complain. Usually seen smoking.
+
+- ***
 
 ---
 
@@ -37,15 +39,18 @@
 ## FAQ
 
 - **How experienced are you at game development?**
-    - No problem! Just do this.
+    - I'm just a 15 year old student trying to learn. So far I have about 6 years of experience using Photoshop, but on the topic of actual programming, I only know how to code Arduino C and some basic coding knowledge. Apart from that, this will be my first attempt at a full game.
 
 - **What's the expected release date?**
-    - No problem! Just do this.
-
+    - Honestly, any date I say would be a lie. But at this pace, I could say before June. But anything is possible.
+    
+- **Why are you choosing to make this kind of game?**
+    - I've always been a story teller in my own way. I like story based games. Games that have such a strong story, can grip you like if you were watching a movie, or reading a good book. I've also always liked choices. To be able to make my own path anywhere I go, and in everything I do. Hence the choice making in the game, as well as the story along with it.
+ 
 ## Support
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`mitchelltahhan.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@mitchelltahhan`</a>
+- Website at <a href="http://mitchelltahhan.wixsite.com/mitchelltahhan" target="_blank">`mitchelltahhan`</a>
+- Twitter at <a href="http://twitter.com/M1tchNM" target="_blank">`@m1tchnm`</a>
 - Github at <a href="https://github.com/Mitchelltahhan" target="_blank">`/mitchelltahhan`</a>
