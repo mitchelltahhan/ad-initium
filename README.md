@@ -32,10 +32,6 @@
 ![The Escapist](https://vulcan.dl.playstation.net/img/cfn/113079IvIgqi7bzzxgOJzCMO-9VMk0G2ACwq_PFJGOaShZ4gU-xzHJ6_1fflvIMi_mhWSvblvRqlRq6M7KjPAURfy4oIfbcW.jpg)
 ![The Escapist](https://gamingbolt.com/wp-content/uploads/2017/08/The-Escapists-2.jpg)
 
-## Progress
-
-![Roadmap](https://i.ibb.co/y6kn1jr/Roadmap-Progress.png)
-
 ## FAQ
 
 - **How experienced are you at game development?**
